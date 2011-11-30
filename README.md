@@ -10,8 +10,8 @@
  * <a href="#ejs.lang">ejs.lang</a>
  * <a href="#styl.lang">styl.lang (needs updated to proper syntax)</a>
  * <a href="#Inconsolata">Inconsolata</a>
- * <a href="#Markup%20Preview">Markup Preview (needs ported to gedit3)</a>
- * <a href="#Zoom">Zoom (needs ported to gedit3)</a>
+ * <a href="#Markup%20Preview">Markup Preview</a>
+ * <a href="#Zoom">Zoom (needs tested)</a>
 
 
 
